@@ -38,3 +38,4 @@ out/
 
 # Ignore specific file
 src/main/resources/application-security.properties
+application-admin.properties
