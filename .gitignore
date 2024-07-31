@@ -36,4 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 
-application-admin.properties
+# Ignore specific file
+src/main/resources/application-security.properties
